@@ -1,7 +1,8 @@
+
 ## Things I Have Learned at Bloc.io
 
 1. HTML fundamentals including using the DOCTYPE declaration to define HTML version, use of the opening and closing `<html>`, `<head>`, and `<body>` tags
-1. The importance of using semantic HTML to maximize site accessibility and search engine optimization. Semantic tags include using `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<details>`. 
+1. The importance of using semantic HTML to maximize site accessibility and search engine optimization. Semantic tags include using `<header>`, `<footer>`, `<main>`, `<section>`, `<article>`, `<details>`.
 1. The creation of forms and tables in HTML
 1. The selective use of attributes in HTML including defining classes and ID's
 1. How to link HTML documents to stylesheets using the `<link>` tag in the `<head>` section of the HTML document
